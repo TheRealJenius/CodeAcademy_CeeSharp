@@ -1,0 +1,13 @@
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\bin\Debug\netcoreapp3.1\arithmetic.exe
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\bin\Debug\netcoreapp3.1\arithmetic.deps.json
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\bin\Debug\netcoreapp3.1\arithmetic.runtimeconfig.json
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\bin\Debug\netcoreapp3.1\arithmetic.runtimeconfig.dev.json
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\bin\Debug\netcoreapp3.1\arithmetic.dll
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\bin\Debug\netcoreapp3.1\arithmetic.pdb
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\obj\Debug\netcoreapp3.1\arithmetic.csprojAssemblyReference.cache
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\obj\Debug\netcoreapp3.1\arithmetic.csproj.CoreCompileInputs.cache
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\obj\Debug\netcoreapp3.1\arithmetic.AssemblyInfoInputs.cache
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\obj\Debug\netcoreapp3.1\arithmetic.AssemblyInfo.cs
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\obj\Debug\netcoreapp3.1\arithmetic.dll
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\obj\Debug\netcoreapp3.1\arithmetic.pdb
+D:\Coding\CodeAcademy_CeeSharp\arithmetic\obj\Debug\netcoreapp3.1\arithmetic.genruntimeconfig.cache
