@@ -1,0 +1,13 @@
+D:\Coding\CodeAcademy_CeeSharp\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+D:\Coding\CodeAcademy_CeeSharp\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+D:\Coding\CodeAcademy_CeeSharp\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+D:\Coding\CodeAcademy_CeeSharp\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+D:\Coding\CodeAcademy_CeeSharp\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+D:\Coding\CodeAcademy_CeeSharp\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+D:\Coding\CodeAcademy_CeeSharp\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+D:\Coding\CodeAcademy_CeeSharp\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+D:\Coding\CodeAcademy_CeeSharp\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+D:\Coding\CodeAcademy_CeeSharp\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+D:\Coding\CodeAcademy_CeeSharp\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+D:\Coding\CodeAcademy_CeeSharp\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+D:\Coding\CodeAcademy_CeeSharp\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache

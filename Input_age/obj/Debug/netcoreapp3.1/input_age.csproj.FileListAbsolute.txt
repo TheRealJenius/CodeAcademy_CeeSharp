@@ -1,0 +1,13 @@
+D:\Coding\CodeAcademy_CeeSharp\input_age\bin\Debug\netcoreapp3.1\input_age.exe
+D:\Coding\CodeAcademy_CeeSharp\input_age\bin\Debug\netcoreapp3.1\input_age.deps.json
+D:\Coding\CodeAcademy_CeeSharp\input_age\bin\Debug\netcoreapp3.1\input_age.runtimeconfig.json
+D:\Coding\CodeAcademy_CeeSharp\input_age\bin\Debug\netcoreapp3.1\input_age.runtimeconfig.dev.json
+D:\Coding\CodeAcademy_CeeSharp\input_age\bin\Debug\netcoreapp3.1\input_age.dll
+D:\Coding\CodeAcademy_CeeSharp\input_age\bin\Debug\netcoreapp3.1\input_age.pdb
+D:\Coding\CodeAcademy_CeeSharp\input_age\obj\Debug\netcoreapp3.1\input_age.csprojAssemblyReference.cache
+D:\Coding\CodeAcademy_CeeSharp\input_age\obj\Debug\netcoreapp3.1\input_age.csproj.CoreCompileInputs.cache
+D:\Coding\CodeAcademy_CeeSharp\input_age\obj\Debug\netcoreapp3.1\input_age.AssemblyInfoInputs.cache
+D:\Coding\CodeAcademy_CeeSharp\input_age\obj\Debug\netcoreapp3.1\input_age.AssemblyInfo.cs
+D:\Coding\CodeAcademy_CeeSharp\input_age\obj\Debug\netcoreapp3.1\input_age.dll
+D:\Coding\CodeAcademy_CeeSharp\input_age\obj\Debug\netcoreapp3.1\input_age.pdb
+D:\Coding\CodeAcademy_CeeSharp\input_age\obj\Debug\netcoreapp3.1\input_age.genruntimeconfig.cache

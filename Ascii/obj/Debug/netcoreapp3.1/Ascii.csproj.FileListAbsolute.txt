@@ -1,0 +1,13 @@
+D:\Coding\Ascii\bin\Debug\netcoreapp3.1\Ascii.exe
+D:\Coding\Ascii\bin\Debug\netcoreapp3.1\Ascii.deps.json
+D:\Coding\Ascii\bin\Debug\netcoreapp3.1\Ascii.runtimeconfig.json
+D:\Coding\Ascii\bin\Debug\netcoreapp3.1\Ascii.runtimeconfig.dev.json
+D:\Coding\Ascii\bin\Debug\netcoreapp3.1\Ascii.dll
+D:\Coding\Ascii\bin\Debug\netcoreapp3.1\Ascii.pdb
+D:\Coding\Ascii\obj\Debug\netcoreapp3.1\Ascii.csprojAssemblyReference.cache
+D:\Coding\Ascii\obj\Debug\netcoreapp3.1\Ascii.csproj.CoreCompileInputs.cache
+D:\Coding\Ascii\obj\Debug\netcoreapp3.1\Ascii.AssemblyInfoInputs.cache
+D:\Coding\Ascii\obj\Debug\netcoreapp3.1\Ascii.AssemblyInfo.cs
+D:\Coding\Ascii\obj\Debug\netcoreapp3.1\Ascii.dll
+D:\Coding\Ascii\obj\Debug\netcoreapp3.1\Ascii.pdb
+D:\Coding\Ascii\obj\Debug\netcoreapp3.1\Ascii.genruntimeconfig.cache
