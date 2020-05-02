@@ -1,0 +1,13 @@
+D:\Coding\CodeAcademy_CeeSharp\variables\obj\Debug\netcoreapp3.1\variables.csprojAssemblyReference.cache
+D:\Coding\CodeAcademy_CeeSharp\variables\obj\Debug\netcoreapp3.1\variables.csproj.CoreCompileInputs.cache
+D:\Coding\CodeAcademy_CeeSharp\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfoInputs.cache
+D:\Coding\CodeAcademy_CeeSharp\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfo.cs
+D:\Coding\CodeAcademy_CeeSharp\variables\bin\Debug\netcoreapp3.1\variables.exe
+D:\Coding\CodeAcademy_CeeSharp\variables\bin\Debug\netcoreapp3.1\variables.deps.json
+D:\Coding\CodeAcademy_CeeSharp\variables\bin\Debug\netcoreapp3.1\variables.runtimeconfig.json
+D:\Coding\CodeAcademy_CeeSharp\variables\bin\Debug\netcoreapp3.1\variables.runtimeconfig.dev.json
+D:\Coding\CodeAcademy_CeeSharp\variables\bin\Debug\netcoreapp3.1\variables.dll
+D:\Coding\CodeAcademy_CeeSharp\variables\bin\Debug\netcoreapp3.1\variables.pdb
+D:\Coding\CodeAcademy_CeeSharp\variables\obj\Debug\netcoreapp3.1\variables.dll
+D:\Coding\CodeAcademy_CeeSharp\variables\obj\Debug\netcoreapp3.1\variables.pdb
+D:\Coding\CodeAcademy_CeeSharp\variables\obj\Debug\netcoreapp3.1\variables.genruntimeconfig.cache
