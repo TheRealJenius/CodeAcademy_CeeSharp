@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\CodeAcademy_CeeSharp\\strings\\strings.csproj": {}
+    "D:\\Coding\\codeacademy_ceesharp\\strings\\strings.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\CodeAcademy_CeeSharp\\strings\\strings.csproj": {
+    "D:\\Coding\\codeacademy_ceesharp\\strings\\strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\CodeAcademy_CeeSharp\\strings\\strings.csproj",
+        "projectUniqueName": "D:\\Coding\\codeacademy_ceesharp\\strings\\strings.csproj",
         "projectName": "strings",
-        "projectPath": "D:\\Coding\\CodeAcademy_CeeSharp\\strings\\strings.csproj",
+        "projectPath": "D:\\Coding\\codeacademy_ceesharp\\strings\\strings.csproj",
         "packagesPath": "C:\\Users\\Jesse\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\CodeAcademy_CeeSharp\\strings\\obj\\",
+        "outputPath": "D:\\Coding\\codeacademy_ceesharp\\strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jesse\\AppData\\Roaming\\NuGet\\NuGet.Config"
