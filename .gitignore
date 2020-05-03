@@ -1,2 +1,5 @@
-#Ignore filews within debug folder
+#Ignore files within debug folder
 [Dd]ebug/
+
+#Ignore cached files
+*.cache
