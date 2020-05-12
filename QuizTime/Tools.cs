@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace TrueOrFalse
+namespace QuizTime
 {
   public class Tools
   {
