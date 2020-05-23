@@ -1,2 +1,2 @@
-# CodeAcademy_CeeSharp
-CodeAcademy Pro - Learn C#
+# Codecademy_CeeSharp
+Codecademy Pro - Learn C#
